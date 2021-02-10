@@ -25,7 +25,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 public class MainActivity extends AppCompatActivity {
-
+//嗨，你好吗？
     EditText cityName;
     TextView resultTextView;
 //api key = 3b3692e06266e1668ecd87b56c5bd18f
